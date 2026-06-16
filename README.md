@@ -26,37 +26,21 @@
 
 ### About Me
 
-I am a **Senior Research Engineer in Computer Vision** at **InnoPeak Technology, Inc. (OPPO R&D US)**. I received my Ph.D. in Engineering from **Cleveland State University**, where I worked with the **Cleveland Vision & AI Lab** on computer vision, domain adaptation, and autonomous driving perception.
+I am a **Senior Research Engineer in Computer Vision** at **InnoPeak Technology, Inc.**. I received my Ph.D. in Engineering from **Cleveland State University**, where I worked with the **Cleveland Vision & AI Lab** on computer vision, domain adaptation, and autonomous driving perception.
 
 My research and engineering interests lie at the intersection of **computer vision**, **deep learning**, **generative AI**, **multi-modal large language models**, **computational photography**, and **intelligent autonomous systems**.
 
-I have co-authored **20+ peer-reviewed publications** in leading conferences and journals, including **CVPR, ICRA, IROS, WACV, IEEE T-IV, IEEE TCSVT, Transportation Research Part C**, and **Expert Systems with Applications**. My work has received **2,400+ citations** with an **h-index of 20**.
 
 ---
 
 ### Research Interests
 
 - **Generative AI and Multi-Modal LLMs**
-- **Computational Photography and Imaging**
 - **Image / Video Enhancement and Restoration**
 - **Autonomous Driving Perception**
 - **2D / 3D Object Detection and Visual Sensing**
 - **Cooperative Perception, V2X Perception, and Multi-Agent Perception**
 - **Domain Adaptation, Domain Generalization, and Sim-to-Real Transfer**
-- **Robust Perception under Adverse Weather and Low-Light Conditions**
-- **Edge AI and Real-Time Vision Systems**
-
----
-
-### Selected Research Highlights
-
-- **Light the Night**: Multi-condition diffusion framework for unpaired low-light enhancement in autonomous driving, **CVPR 2024**.
-- **CoMamba**: Real-time cooperative perception unlocked with state space models, **IROS 2025**.
-- **V2X-DGW**: Domain generalization for multi-agent perception under adverse weather conditions, **ICRA 2025**.
-- **S2R-ViT**: Simulation-to-reality transfer learning for multi-agent cooperative perception, **ICRA 2024**.
-- **AdvGPS**: Adversarial GPS attacks for multi-agent perception, **ICRA 2024**.
-- **V2V4Real / OPV2V**: Large-scale real-world and simulation datasets for cooperative perception, **CVPR 2023 / ICRA 2022**.
-- **Domain Adaptive Object Detection**: Robust object detection under foggy and rainy weather, **WACV 2023 / IEEE T-IV 2024**.
 
 ---
 
