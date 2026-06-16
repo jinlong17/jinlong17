@@ -26,9 +26,7 @@
 
 ### About Me
 
-I am a **Senior Research Engineer in Computer Vision** at **InnoPeak Technology, Inc.**. I received my Ph.D. in Engineering from **Cleveland State University**, where I worked with the **Cleveland Vision & AI Lab** on computer vision, domain adaptation, and autonomous driving perception.
-
-My research and engineering interests lie at the intersection of **computer vision**, **deep learning**, **generative AI**, **multi-modal large language models**, **computational photography**, and **intelligent autonomous systems**.
+I am a **Senior Research Engineer in Computer Vision** at **InnoPeak Technology, Inc.**. I received my Ph.D. in Engineering from Cleveland State University, where I worked on computer vision, domain adaptation, and autonomous driving perception. My research and engineering interests lie at the intersection of **computer vision**, **deep learning**, **generative AI**, **multi-modal large language models**, **computational photography**, and **intelligent autonomous systems**.
 
 
 ---
